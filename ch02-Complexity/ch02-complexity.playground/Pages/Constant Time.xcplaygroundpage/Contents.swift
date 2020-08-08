@@ -7,7 +7,7 @@
  
  
  ### Constant Time - O(1)
- an algorithm that has the same running time regardless of the size of ther input
+ an algorithm that has the same running time regardless of the size of their input
  
  ### Big O Notation
  used to represent various magnitudes of time complexity

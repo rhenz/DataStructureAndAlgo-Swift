@@ -2,7 +2,7 @@
 
 /*:
  ### Quadratic Time - O(n^2)
- an algorithm whereas the
+is a time complexity algorithm that takes time proportional to the square of the input size. Most commonly referred to as an `n squared`
  */
 
 import UIKit

@@ -9,7 +9,9 @@ import Foundation
 // Binary Search
 func findIndexInSortedArray(nums: [Int], n: Int) -> Int? {
     guard !nums.isEmpty else { return nil }
-
+    
+    let test = Array()
+    
     var left = 0
     var right = nums.count-1
     
